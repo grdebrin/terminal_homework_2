@@ -129,4 +129,4 @@ Homework terminal thema 2
         grep -rlw sec | xargs -I{} rm {}
 40. Просто вывести в терминал строку “Good job!!” 
         
-        echo Good job!! - echo Good job\!!
+        print Good job!!
